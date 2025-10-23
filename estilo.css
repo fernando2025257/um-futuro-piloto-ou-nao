@@ -1,17 +1,15 @@
-body{
-    background-color:black;
-    color:white;
+body {
+    background-color: black;
+    color: white;
     display: flex;
-justify-content: center;
-align-items: center;
+    justify-content: center;
+    align-items: center;
 
 
-
+ 
 }
 
-
-    .img01{width:90%;
+.img01 {
+    width: 90%;
 
 }
-
-
