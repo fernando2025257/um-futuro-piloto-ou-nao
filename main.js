@@ -6,6 +6,6 @@ avanca.forEach(button =>{
     const proximoPasso= 'passo-' + this .getAttribute('data-proximo')
 console.log(proximopaaso)
 atual.classList.remove('ativo')
-  document.getelementbyld(proximopasso).classlist.add('ativo')
+  document.getelementbyld(proximoPasso).classlist.add('ativo')
 })
 })
