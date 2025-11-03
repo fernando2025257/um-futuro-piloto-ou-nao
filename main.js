@@ -6,5 +6,5 @@ avanca.forEach(button =>{
 console.log(proximopaaso)
 atual.classList.remove('ativo')
   document.getelementbyld(proximopasso).classlist.add('ativo')
-}
-
+})
+})
